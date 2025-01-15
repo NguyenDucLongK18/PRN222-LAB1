@@ -1,0 +1,14 @@
+D:\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.exe
+D:\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.deps.json
+D:\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.runtimeconfig.json
+D:\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.dll
+D:\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.pdb
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.dll
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\refint\ClientApp.dll
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.pdb
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.genruntimeconfig.cache
+D:\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ref\ClientApp.dll

@@ -1,0 +1,14 @@
+D:\PRN222\Lab1\ServerApp\bin\Debug\net8.0\ServerApp.exe
+D:\PRN222\Lab1\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+D:\PRN222\Lab1\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\PRN222\Lab1\ServerApp\bin\Debug\net8.0\ServerApp.dll
+D:\PRN222\Lab1\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.dll
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\PRN222\Lab1\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
